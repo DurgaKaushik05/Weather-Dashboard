@@ -57,8 +57,6 @@ Follow these steps to run the project locally.
 git clone YOUR_GITHUB_REPOSITORY_URL
 ```
 
-Replace `YOUR_GITHUB_REPOSITORY_URL` with your actual GitHub repository URL.
-
 ### 2. Navigate to the Project Folder
 
 ```bash
