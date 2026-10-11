@@ -54,7 +54,6 @@ Follow these steps to run the project locally.
 ### 1. Clone the Repository
 
 ```bash
-git clone ```bash
 git clone https://github.com/DurgaKaushik05/Weather-Dashboard.git
 ```
 
